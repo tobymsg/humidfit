@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /about/
+Disallow: /affiliate/
+Disallow: /privacy/
+
+Sitemap: https://tobymsg.github.io/sitemap-index.xml
